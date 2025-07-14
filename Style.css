@@ -1,0 +1,9 @@
+div {
+    width: 350px;
+    height: 200px;
+}
+#tag p {
+    color: rgb(98, 98, 151);
+    font-size: 16px;
+    text-align: center;
+}
